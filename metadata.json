@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Generatore Nomi Fatture (WEBAPP)XBackup2",
+  "description": "Un'applicazione per generare e gestire i nomi dei file delle fatture secondo regole predefinite. Seleziona una società, crea un nuovo nome di fattura e salvalo in un elenco per mantenere la numerazione progressiva e la sequenza dei periodi corretta.",
+  "requestFramePermissions": []
+}
